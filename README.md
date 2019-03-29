@@ -1,3 +1,9 @@
+# NEW! Can be ordered at the pcbway.com link below for about 1$ a piece + shipping. Enjoy!
+
+
+<a href="https://www.pcbway.com/project/shareproject/AC_power_shield_for_Wemos_D1_Mini.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB From Pcbway" /></a>
+
+
 # AC power shield for Wemos D1 Mini (HLK-PM01)
 
 ## What does it do?
